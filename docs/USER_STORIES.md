@@ -44,16 +44,19 @@ Funcionalidade: Cadastro de curso
       | Nome      | Testes Automatizados do Zero |
       | Descrição | Aprenda E2E                  |
       | Instrutor | Ana Silva                    |
-      | URL       | https://ex.com/capa.jpg      |
+      | URL       | <IMG_OK>                     |
       | Início    | 05/11/2025                   |
       | Fim       | 06/11/2025                   |
       | Vagas     | 30                           |
       | Tipo      | Online                       |
-      | Link      | https://linkdeexemplo.com.br |
+      | Link      | https://beedoo.com.br/       |
     E clico em "CADASTRAR CURSO"
     Então vejo mensagem de sucesso
     E o curso aparece na listagem
     E o curso persiste após recarregar a página
+
+<IMG_OK> → https://m.media-amazon.com/images/I/71lvZfWSYYL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg
+
 
  ```
 
