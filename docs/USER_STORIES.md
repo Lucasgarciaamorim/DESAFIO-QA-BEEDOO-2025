@@ -1,4 +1,6 @@
 # User Stories – Módulo de Cursos
+<div id="topo"></div>
+
 
 > **Ambiente:** https://creative-sherbet-a51eac.netlify.app/  
 > **Navegador:** Microsoft Edge 141.0.3537.99 (64 bits)  
@@ -53,7 +55,7 @@ Funcionalidade: Cadastro de curso
     E o curso persiste após recarregar a página
 
  ```
-[↑ Voltar ao topo](#sumário)
+
   ---
  ## US-002 — Validações de campos (gerais)
  **Como** operador
@@ -120,7 +122,7 @@ Cenário: Prevenir XSS armazenado
   E nenhum script deve executar
 
 ```
-[↑ Voltar ao topo](##sumário)
+
 ---
 ## US-003 — Tipos Presencial/Online
 
@@ -152,7 +154,7 @@ Cenário: Troca de tipo limpa/valida campos do outro tipo
   E o formulário exige Link http/https
 
 ```
-[↑ Voltar ao topo](##sumário)
+
 ---
 ## US-004 — Datas do curso
 
@@ -181,7 +183,7 @@ Cenário: Início e fim no mesmo dia
   Então o envio é permitido
 
 ```
-[↑ Voltar ao topo](##sumário)
+
 ---
 ## US-005 — Listagem de cursos (UI/UX)
 
@@ -205,7 +207,7 @@ Cenário: Consistência visual dos cards
   E não há rolagem horizontal
 
 ```
-[↑ Voltar ao topo](##sumário)
+
 ---
 ## US-006 — Excluir curso (funcional)
 
@@ -225,7 +227,7 @@ Cenário: Exclusão efetiva
   E após recarregar a página o item não reaparece
 
 ```
-[↑ Voltar ao topo](##sumário)
+
 ---
 ## US-007 — Confirmação de exclusão (modal) — RFE
 Status: RFE (não implementado)
@@ -242,7 +244,8 @@ Cenário: Confirmar ou cancelar exclusão
 
 ```
 
-[↑ Voltar ao topo](##sumário)
+[↑ Voltar ao topo](#topo)
+
 
 
 
