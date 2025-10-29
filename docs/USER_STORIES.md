@@ -53,7 +53,7 @@ Funcionalidade: Cadastro de curso
     E o curso persiste após recarregar a página
 
  ```
-[↑ Voltar ao topo](##sumário)
+[↑ Voltar ao topo](#sumário)
   ---
  ## US-002 — Validações de campos (gerais)
  **Como** operador
