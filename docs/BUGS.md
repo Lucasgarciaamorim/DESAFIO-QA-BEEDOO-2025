@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | BUG-001 | Obrigatórios sem validação | Crítico | Aberto | Deixar obrigatórios vazios e enviar | CAD-002, CAD-020 | [Vídeo](https://drive.google.com/file/d/10zgtOzYhfQ3x-P67rwpx7KpDjuyn8iYI/view?usp=drive_link) |
 | BUG-006 | Validação de URL/esquema | Crítico | Aberto | URL `javascript:` / sem http/https aceita | CAD-007, CAD-008, CAD-027 | [Vídeo](https://drive.google.com/file/d/10yWAYaeDJ15MUiCoU3GF1UDbqgfrosLc/view?usp=drive_link) |
-| BUG-007 | Desalinhamento de cards | Médio | Aberto | Cards com alturas distintas criam degraus | CAD-018, CAD-022 | [Vídeo](https://drive.google.com/file/d/1j4Gwb8ag-oRqgW9BmtbK_amdIlDrskKG/view?usp=drive_link) |
+| BUG-007 | Quebra de Layout | Médio | Aberto | Cards com alturas distintas criam degraus | CAD-018, CAD-022 | [Vídeo](https://drive.google.com/file/d/1j4Gwb8ag-oRqgW9BmtbK_amdIlDrskKG/view?usp=drive_link) |
 | BUG-008 | Ausência de limites de texto | Alto | Aberto | Campos aceitam 500+ caracteres | CAD-019 | [[Vídeo](https://drive.google.com/file/d/1di1bD_lcvt6v4_956pYiDVqTlzfgScIP/view?usp=drive_link) |
 | BUG-010 | DELETE 405 (exclusão falha) | Crítico | Aberto | Ao excluir, Network 405 e item permanece | CAD-025 | [Vídeo](https://drive.google.com/file/d/1je6oVr7YJDBhEXvwacSY2K9WbPKQaVTo/view?usp=drive_link) |
 | BUG-011 | XSS armazenado | Crítico | Aberto | `<script>` persistido/renderizado no card | CAD-017 | [Vídeo](https://drive.google.com/file/d/1oB2_eKakYYOLuT9InY5t6ZE3xYTA4vZ4/view?usp=drive_link) |
