@@ -3,7 +3,7 @@
 > **Alvo:** https://creative-sherbet-a51eac.netlify.app/  
 > **Navegador:** Microsoft Edge 141.0.3537.99 (64 bits)  
 > **Fuso:** UTC-3 (Brasil)  
-> **Autor:** Lucas Mateus
+> **Autor:** Lucas Garcia
 
 ##  Links rápidos
 - **Planilha de Casos de Teste (Google Sheets):** [Casos de Testes](https://docs.google.com/spreadsheets/d/1IFP406HxHvCxfDRIIRIK-XRMz3UyOoBAmabWJq3toE0/edit?usp=sharing)
