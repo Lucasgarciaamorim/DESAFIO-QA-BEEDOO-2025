@@ -48,7 +48,7 @@ Critérios de aceitação em Gherkin: [docs/USER_STORIES.md](docs/USER_STORIES.m
 
 ##  Relatório de Bugs
 Consolidado em: [docs/BUGS.md](docs/BUGS.md)  
-> Observação: quando houver **mais de um link** por bug (vídeo + print), os links são listados na mesma célula (ex.: `🎥 Vídeo · 🖼️ Print`).
+
 
 ##  RFEs (melhorias, fora do escopo)
 Lista e critérios em: [docs/RFE.md](docs/RFE.md)
