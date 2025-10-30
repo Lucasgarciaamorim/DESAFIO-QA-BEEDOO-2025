@@ -44,7 +44,7 @@ Critérios de aceitação em Gherkin: [docs/USER_STORIES.md](docs/USER_STORIES.m
 **Padrões de evidência**
 - **Vídeos**: `evidence/videos/CAD/CAD-XYZ.mp4`
 - **Prints (RFE/Blocked/UI)**: `evidence/prints/CAD-XYZ.png`
-- **Nomenclatura sugerida**: `AAAA-MM-DD_CAD-XYZ_Status_Res.mp4` (opcional)
+
 
 ##  Relatório de Bugs
 Consolidado em: [docs/BUGS.md](docs/BUGS.md)  
